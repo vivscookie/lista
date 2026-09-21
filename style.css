@@ -15,4 +15,8 @@ margin: 20px;
 padding: 20px;
 border-radius: 10px;
 }
+
+button {
+background-color: #52b788; /* corrigido */
+}
 }
